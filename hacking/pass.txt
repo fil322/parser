@@ -1,0 +1,37 @@
+
+|====================================================================|
+|                                                                    |
+|                        The LaZagne Project                         |
+|                                                                    |
+|                          ! BANG BANG !                             |
+|                                                                    |
+|====================================================================|
+
+
+########## User: #name ##########
+
+------------------- Wifi passwords -----------------
+
+[-] Password not found !!!
+INFO: [!] Password not found.
+Authentication: WPA2PSK
+Protected: true
+SSID: #name_wifi
+
+[-] Password not found !!!
+INFO: [!] Password not found.
+Authentication: WPA3SAE
+Protected: true
+SSID: #name
+
+[-] Password not found !!!
+INFO: [!] Password not found.
+Authentication: WPA2PSK
+Protected: true
+SSID: #name
+
+
+[+] 0 passwords have been found.
+For more information launch it again with the -v option
+
+elapsed time = 18.0460000038
